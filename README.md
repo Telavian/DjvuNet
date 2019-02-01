@@ -5,7 +5,7 @@ DjvuNet is a fully managed Djvu reader in C# and supports the entire Djvu file s
 
 Optimal performance will be achieved with some background thread processing.
 
-Work on this project has been continued at <https://github.com/DjvuNet/DjvuNet>.
+**Work on this project has been continued at <https://github.com/DjvuNet/DjvuNet>.**
 
 **Usage**
 `````c#
